@@ -1,0 +1,13 @@
+<?php
+
+$num=1;
+$string='1';
+$boolean=true;
+
+echo $num;
+echo '<br>';
+echo $string;
+echo '<br>';
+echo $boolean;
+
+?>
